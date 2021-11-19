@@ -1,3 +1,13 @@
 files:
   - source: /creative_plus/ru_RU.properties
     translation: /creative_plus/%locale_with_underscore%.properties
+  - source: justmc/ru_RU.properties
+    translation: justmc/%locale_with_underscore%.properties
+  - source: /creative/ru_RU.properties
+    translation: /creative/%locale_with_underscore%.properties
+  - source: auth/ru_RU.properties
+    translation: auth/%locale_with_underscore%.properties
+  - source: punishments/ru_RU.properties
+    translation: punishments/%two_letters_code%.properties
+  - source: skins/ru_RU.properties
+    translation: skins/%two_letters_code%.properties
